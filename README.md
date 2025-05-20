@@ -1,4 +1,4 @@
-# session2(counter,3bit_multiplier)
+# SESSION2(counter,3bit_multiplier,AND gate)
 Projects done in the second session of the FPGA course
 
 ## 1]COUNTER USING D-FF
@@ -20,3 +20,14 @@ The architecture mimics the traditional method of multiplication, where each bit
 Below is the image for schematic 3-bit binary multiplier using Half Adders in Xilinx Vivado.
 
 ![3bit_mul](https://github.com/user-attachments/assets/d50ed7bd-52ef-4217-989a-303c68e42d6a)
+
+## 3] AND GATAE USING D-FF 
+
+This project implements a basic 2-input AND gate using D flip-flops on an FPGA. Instead of using simple combinational logic, the design leverages sequential elements (D flip-flops) to demonstrate how basic logic functions can be constructed using storage elements. This approach provides an educational insight into the flexibility of digital design, showcasing how flip-flops—typically used for memory—can also be repurposed for logic under certain conditions.
+
+The design was synthesized and tested on an FPGA board to validate its functionality. It accepts two input signals and produces the ANDed result after a clock cycle delay, due to the inherent behavior of flip-flops.The design was tested using Vivado’s simulation environment to verify correct counting behavior.
+
+Below is the image for schematic AND Gate using Half D-FF in Xilinx Vivado.
+
+![AND](https://github.com/user-attachments/assets/898d909f-c81b-4afc-aaa9-fd4a1f67a0c9)
+
