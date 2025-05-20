@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue May 20 15:56:49 2025
+# Process ID: 227092
+# Current directory: /home/adarshkulkarni/adarsh/and_dff/and_dff.runs/synth_1
+# Command line: vivado -log and_using_dff.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source and_using_dff.tcl
+# Log file: /home/adarshkulkarni/adarsh/and_dff/and_dff.runs/synth_1/and_using_dff.vds
+# Journal file: /home/adarshkulkarni/adarsh/and_dff/and_dff.runs/synth_1/vivado.jou
+# Running On: vlsiguru4, OS: Linux, CPU Frequency: 2100.000 MHz, CPU Physical cores: 16, Host memory: 134459 MB
+#-----------------------------------------------------------
+source and_using_dff.tcl -notrace
