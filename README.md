@@ -1,5 +1,5 @@
-# SESSION2(counter,3bit_multiplier,AND gate)
-Projects done in the second session of the FPGA course
+# FPGA
+Projects done in FPGA course
 
 ## 1]COUNTER USING D-FF
 
