@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Sat May 24 15:34:42 2025
+# Process ID         : 2952
+# Current directory  : C:/Users/adars/Desktop/FPGA/project_1/project_1.runs/synth_1
+# Command line       : vivado.exe -log pos_edge_det.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pos_edge_det.tcl
+# Log file           : C:/Users/adars/Desktop/FPGA/project_1/project_1.runs/synth_1/pos_edge_det.vds
+# Journal file       : C:/Users/adars/Desktop/FPGA/project_1/project_1.runs/synth_1\vivado.jou
+# Running On         : LAPTOP-LDIH5QHA
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 3 7320U with Radeon Graphics         
+# CPU Frequency      : 2395 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 7773 MB
+# Swap memory        : 5637 MB
+# Total Virtual      : 13410 MB
+# Available Virtual  : 2957 MB
+#-----------------------------------------------------------
+source pos_edge_det.tcl -notrace
